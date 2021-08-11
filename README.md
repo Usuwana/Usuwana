@@ -1,4 +1,4 @@
-### Hi there stranger 👋
+### Hi there stranger, Tatenda here 👋
 
 <h1>I'm a final year Software Engineering student at Curtin University.</h1>
 
