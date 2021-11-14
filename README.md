@@ -1,8 +1,6 @@
 ### Hi there stranger, Tatenda here 👋
 
-<h1>I'm a final year Software Engineering student at Curtin University.</h1>
-
-Here are some ideas to get you started:
+A few things about me:
 
 - 🔭 I’m currently working on a <a href="https://www.typescriptlang.org/docs/handbook/react.html">React Typescript</a> site.
 - 🌱 I’m currently learning <a href="https://reactjs.org/">React.</a>
